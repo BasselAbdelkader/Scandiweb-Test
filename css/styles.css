@@ -1,0 +1,191 @@
+
+html, body, div, h1, header, footer {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+body {
+    background-color: #F5F5F5;
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
+
+}
+
+header {
+    background-color: #364F6B;
+    padding: 0.5rem;
+}
+
+footer {
+    background-color: #F5F5F5;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    position: fixed;
+}
+
+form {
+    width: 30%;
+    margin-left: 2rem;
+
+}
+
+h1 {
+    display: inline-flex;
+
+    color: #F5F5F5;
+    margin-left: 2.25rem;
+    margin-top: 1rem;
+}
+
+
+footer p {
+    color: black;
+}
+
+
+footer hr {
+    color: black;
+}
+
+
+hr {
+    color: #364F6B;
+
+}
+
+
+p.card-text {
+    text-align: center;
+}
+
+
+.container-fluid {
+    margin-right: 1rem;
+
+}
+
+
+.card {
+    margin-bottom: 1.35rem;
+    background-color: #3FC1C9;
+    color: #F5F5F5;
+}
+
+
+.btn-danger {
+    float: right;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+
+.box {
+
+    display: none;
+    margin-top: 20px;
+}
+
+
+.delete-checkbox {
+    height: 1.1rem;
+    width: 1.1rem;
+}
+
+
+.checkbox-form {
+    width: auto;
+}
+
+
+.delete-button {
+    position: absolute;
+    right: 3rem;
+    top: 0;
+}
+
+.save {
+    position: absolute;
+    right: 12rem;
+    top: 1.5rem;
+    color: #F5F5F5;
+    background-color: #3FC1C9;
+
+}
+
+.mb-3 {
+    margin-top: 1rem;
+
+}
+
+
+.row {
+    margin-right: 1.3rem;
+}
+
+
+#product_form {
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+
+#hidden_div {
+    display: none;
+}
+
+
+#cancel {
+    margin-right: 3rem;
+}
+
+
+#productList {
+    margin-left: 2.2rem;
+}
+
+
+#checkall {
+    font-size: larger;
+    height: 1.1rem;
+    width: 1rem;
+    margin-bottom: 3rem;
+}
+
+
+#delete-product-btn {
+    margin-top: 1.5rem;
+    margin-left: 7rem;
+}
+
+
+#add-button {
+    position: absolute;
+    top: 1.5rem;
+    right: 17rem;
+    color: #F5F5F5;
+    background-color: #3FC1C9;
+}
+
+
+#add-product-footer {
+    position: fixed;
+    background-color: #F5F5F5;
+    /* background-image: url(http://www.transparenttextures.com/patterns/cubes.png); */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+
+}
+
+#checkdiv {
+    margin-bottom: 1rem;
+}
+
